@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frontend Development.**
 
-- 📫 How to reach me **imsyntn@gmail.com**
+- 📫 Reach me  **imsyntn@gmail.com**
 
 
 <!--
