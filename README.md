@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sayantan Sarkar.</h1>
 <h3 align="center">A passionate frontend learner from India.</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **HTML, CSS, Sass, JavaScript, ReactJs**
+- 💬 Ask me about **HTML, CSS, Sass, JavaScript, ReactJs, Redux Toolkit**
 
 - 📫 How to reach me **imsyntn@gmail.com**
 
