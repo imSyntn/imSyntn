@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayantan Sarkar.</h1>
 <h3 align="center">A passionate frontend learner from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsyntn" alt="imsyntn" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/imsyntn" target="blank"><img src="https://img.shields.io/twitter/follow/imsyntn?logo=twitter&style=for-the-badge" alt="imsyntn" /></a> </p>
 
@@ -29,3 +29,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imsyntn&show_icons=true&locale=en&layout=compact" alt="imsyntn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsyntn&" alt="imsyntn" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsyntn" alt="imsyntn" /></a> </p>
