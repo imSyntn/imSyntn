@@ -9,7 +9,7 @@
 <a href="mailto:imsyntn@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="imsyntn" /></a>
 </p>
 
-- 🔭 I’m currently working on [Tunes](https://github.com/imSyntn/Tunes)
+- 🔭 I’m currently working on [Link-Leaf](https://github.com/imSyntn/Link-Leaf)
 
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB, TypeScript.**
 
