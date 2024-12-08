@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"width="29">, I'm Sayantan Sarkar.</h1>
 
 <img src="https://raw.githubusercontent.com/imSyntn/Static-Files/refs/heads/main/sayantan%20sarkar%20Background.png" />
-<h3 align="center">A passionate frontend learner from India.</h3>
+<h3 align="center">An aspiring developer from India.</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/imsyntn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imsyntn" height="30" width="40" /></a>
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Link-Leaf](https://github.com/imSyntn/Link-Leaf)
 
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB, TypeScript.**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://sayantan-sarkar.vercel.app)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **imsyntn@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gxLyyll73Bps9e1dC509qjW_7k1wZgL5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/imSyntn/Static-Files/raw/main/Sayantan%20Sarkar.pdf)
 
 
 # 💻 Tech Stack:
