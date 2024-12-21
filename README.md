@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"width="29">, I'm Sayantan Sarkar.</h1>
 
-<img src="https://raw.githubusercontent.com/imSyntn/Static-Files/refs/heads/main/sayantan%20sarkar%20Background.png" />
+<img src="https://raw.githubusercontent.com/imSyntn/Static-Files/refs/heads/main/sayantan%20sarkar%20Background-upd.png" />
 <h3 align="center">An aspiring developer from India.</h3>
 
 <p align="left">
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://sayantan-sarkar.vercel.app)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://sayantan.site)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Sass, ReactJS, Redux Toolkit, Git.**
 
