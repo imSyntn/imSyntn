@@ -9,7 +9,7 @@
 <a href="mailto:imsyntn@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="imsyntn" /></a>
 </p>
 
-- 🔭 I’m currently working on [Link-Leaf](https://github.com/imSyntn/Link-Leaf)
+- 🔭 I’m currently working on Quizet 🤐
 
 - 🌱 I’m currently learning **Backend Technologies**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **imsyntn@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/imSyntn/Static-Files/raw/main/Sayantan%20Sarkar.pdf)
+- 📄 Know about my experiences [Resume](https://d8it4huxumps7.cloudfront.net/uploads/attachements/user-resumes/6872398f9b8ec_Sayantan_Sarkar.pdf)
 
 
 # 💻 Tech Stack:
