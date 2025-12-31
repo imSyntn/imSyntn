@@ -8,10 +8,10 @@
   <h3>An aspiring developer from India 🇮🇳</h3>
 
   <p>
-    <a href="https://linkedin.com/in/imsyntn" target="blank"><img align="center" src="./linkedin.gif" alt="linkedin" height="30" width="30" /></a>
-    <a href="https://twitter.com/imsyntn" target="blank"><img align="center" src="./twitter-bird.gif" alt="twitter" height="30" width="30" /></a>
-    <a href="mailto:imsyntn@gmail.com" target="blank"><img align="center" src="./gmail.gif" alt="gmail" height="30" width="30" /></a>
-    <a href="https://sayantan.online" target="blank"><img align="center" src="./user.gif" alt="portfolio" height="30" width="30" /></a>
+    <a href="https://linkedin.com/in/imsyntn" target="_blank"><img align="center" src="./linkedin.gif" alt="linkedin" height="30" width="30" /></a>
+    <a href="https://twitter.com/imsyntn" target="_blank"><img align="center" src="./twitter-bird.gif" alt="twitter" height="30" width="30" /></a>
+    <a href="mailto:imsyntn@gmail.com" target="_blank"><img align="center" src="./gmail.gif" alt="gmail" height="30" width="30" /></a>
+    <a href="https://sayantan.online" target="_blank"><img align="center" src="./user.gif" alt="portfolio" height="30" width="30" /></a>
   </p>
 </div>
 
@@ -21,7 +21,7 @@
   🔭 I’m currently working on <b>Quizet</b><br/>
   🌱 I’m currently learning <b>Backend Technologies</b><br/>
   💬 Ask me about <b>React, Next.js, Node.js</b><br/>
-  📄 Know about my experiences <a href="https://www.sayantan.online/Sayantan-Sarkar.pdf"><b>Resume</b></a>
+  📄 Know about my experiences <a href="https://www.sayantan.online/Sayantan-Sarkar.pdf" target="_blank"><b>Resume</b></a>
 </div>
 
 <br/>
